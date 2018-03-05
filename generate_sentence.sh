@@ -1,1 +1,0 @@
-python3 LM.py -t 2 -m S3
