@@ -1,0 +1,780 @@
+all live births > or = <num> weeks at the university of vermont in <num> ( n = <num> ) were retrospectively analyzed for delivery route , indication for cesarean , gestational age , parity , and practice group ( to reflect risk status )
+the total cesarean rate was 14.4 % ( <num> of <num> ) , and the primary rate was 11.4 % ( <num> of <num> )
+abnormal presentation was the most common indication ( 25.6 % , <num> of <num> )
+the `` corrected '' cesarean rate ( maternal-fetal medicine and transported patients excluded ) was 12.4 % ( <num> of <num> ) , and the `` corrected '' primary rate was 9.6 % ( <num> of <num> )
+furthermore , when all deliveries were analyzed , regardless of risk status but limited to gestational age > or = <num> weeks , the rates did not change ( 12.6 % , <num> of <num> ; primary 9.2 % , <num> of <num> )
+arrest of dilation was the most common indication in both `` corrected '' subgroups ( 23.4 and 24.6 % , respectively )
+cesarean rates at tertiary care hospitals should be compared with rates at community hospitals only after correcting for dissimilar patient groups or gestational age
+in the third trimester , the amniotic fluid index ( afi ) may be affected by maternal fluid status
+as the ambient temperature increases , there is an increase in insensible fluid loss and the potential for dehydration
+we hypothesize that as temperature increases there would be a concomitant decrease in afi
+from june <num> to august <num> , <num> , during a period of unusual high heat , <num> women with singleton pregnancies between <num> and <num> weeks ' gestation undergoing serial antenatal testing had afi determinations recorded at least weekly
+the daily high ambient temperature in our urban area was subsequently obtained
+a 2- , 3- , and 4-day mean temperature prior to the test date was compared to afi using a spearman-rank correlation
+the daily high temperature ranged from <num> to <num> degrees f and afi values ranged from 1.7 to 24.7 cm during the study period
+there was a significant correlation between the 2- , 3- , and 4-day mean temperature and afi , with the 4-day mean being the most significant ( r = 0.31 , p & # <num> ; 0.001 )
+fluctuations in ambient temperature are inversely correlated to changes in afi
+this relationship should be taken into account when interpreting the afi as a measure of fetal well-being
+this study tested the hypothesis that to reduce the rate of macrosomic infants in gestational diabetes cases , good glycemic control should be initiated before <num> completed gestational weeks
+the study population included <num> women with gestational diabetes , ascertained by universal screening of all women attending the antenatal clinic of the hadassah medical center , over a 2-year period
+the <num> women ( <num> % ) , who initiated treatment before <num> completed weeks , composed the `` early '' group
+the <num> women ( <num> % ) , who initiated treatment after the 34th week , composed the `` late '' group
+all patients were managed by an intensified protocol , including stringent glycemic control
+in the `` early '' and `` late '' groups , mean gestational age at the beginning of treatment was 30.0 +/- 3.8 and 36.2 +/- 1.2 weeks , and duration of treatment was 9.6 +/- 4.1 and 3.7 +/- 1.8 weeks , respectively
+maternal characteristics were similar in the two groups
+the rate of macrosomic and large-for-gestational-age infants were <num> and <num> % , respectively , in the early group as compared to <num> and <num> % in the `` late '' group ( p & # <num> ; 0.05 )
+no significant differences were found between the two groups in the mode of delivery or apgar scores
+we conclude that to reduce the rate of macrosomic infants in gestational diabetes cases , good glycemic control should be initiated before <num> completed gestational weeks
+our aim was to investigate the contribution of certain antenatally detectable markers leading to the diagnosis of trisomic fetuses we observed over a period of <num> years
+in our study , we specifically analyzed the role played by advanced maternal age and sonographically discovered abnormalities in the detection of autosomal trisomies
+all together , <num> fetuses had this disorder , representing 28.7 % ( <num> of <num> ) of all cytogenetic aberrations detected at our center over the same period
+down syndrome ( <num> cases ) and edward syndrome ( <num> cases ) were the most common trisomies , while <num> cases of patau syndrome were also diagnosed
+the most common indication leading to diagnosis was abnormal ultrasound finding ( 48.2 % ) , followed by advanced maternal age ( 44.4 % )
+however , <num> % of the trisomic fetuses belonged to mothers aged <num> years and above
+down syndrome fetuses ( 41.7 % ) had prenatally detected sonographic anomalies , 63.6 % for edward syndrome , and all fetuses with patau syndrome ( <num> of <num> ) showed abnormal sonographic signs
+trisomy <num> presented with the following features : hydramnios , complex malformations , pyelectasis , and duodenal atresia
+trisomy <num> fetuses showed hydramnios , intrauterine growth retardation , microcephaly , spina bifida , and nonimmune hydrops fetalis
+signs observed in fetuses with trisomy <num> were : hydrocephalus , intrauterine growth retardation , oligoanhydramnios , complex malformations , severe fetal bradycardia and hydronephrosis
+the objective of this study was to determine if the rate of preeclampsia is increased in triplet as compared to twin gestations
+fifty-three triplet pregnancies between <num> and <num> at the new york hospital-cornell medical center were reviewed
+these were matched for maternal age , parity , and race to twin gestations ( n = <num> ) from the same population
+severe preeclampsia was defined by standard criteria
+student 's t-test , fisher exact test , and chi-square were used for statistical analysis
+the rate of severe preeclampsia was increased significantly in the triplet group <num> of <num> ( 22.6 % ) as compared with the twin group <num> of <num> ( 5.7 % ) ( or = 4.9 , <num> % ci 1.2-23.5 , p = 0.02 )
+the rate of overall preeclampsia was not significantly different in the triplet <num> of <num> ( 33.96 % ) or twin <num> of <num> ( 22.6 % ) groups
+in this retrospective , case-controlled study , the rate of severe pre-eclampsia was significantly increased in triplet gestations as compared to twins although the overall rate of preeclampsia was not
+this information may be useful in counseling patients with high order multifetal gestations
+we conducted a survey and audit of thermal equipment use in very low-birth-weight infants in five ohio neonatal intensive care units ( nicus ) to document regional practice
+the survey indicated a variety of thermal care styles
+two nicus preferred to admit infants to incubators , the other three favoring radiant warmers
+these three nicus moved infants from radiant warmers into incubators at significantly different mean ages
+the audit demonstrated inconsistent use of plastic covers , warming mattresses , and added humidity under radiant warmers , and discrepancies between survey responses and actual use within nicus
+inter-nicu variability of thermal equipment use may complicate fluid management
+this report describes a full-term newborn with massive fetomaternal hemorrhage
+fetal movements were decreased <num> hr prior to delivery
+on the day of delivery , they were absent
+the nonstress test was abnormal with low biophysical profile and decreased beat-to-beat variability
+the infant presented with extreme pallor , hypotonia , hepatosplenomegaly , and ascites
+the initial hemoglobin was 2.2 g/dl , the kleihauer-betke stain was 27.6 % ( highest level ever reported )
+right temporal and cerebellar hemorrhages were present
+sequelae include severe developmental delay and asymmetric double hemiplegia
+omphalocele-exstrophy-imperforate anus-spinal defects ( oeis complex ) , a combination of omphalocele , exstrophy of the bladder , an imperforate anus and spinal defects , arises from a single localized defect in the early development of the mesoderm that will later contribute to infraumbilical mesenchyme , cloacal septum , and caudal vertebrae
+in this report , we document the perinatal features of two cases of oeis complex associated with meningomyeloceles and severe lower limb defects , and discuss the prenatal diagnosis , inheritance , and differential diagnosis of this association of malformations
+although long-term survival can be achieved by successful corrective surgery , the associated structural defects such as large meningomyelocele and severe limb aplasia or hypoplasia , as seen in our patient , can influence the patient 's quality of life .
+we would like to emphasize that an accurate prenatal diagnosis of oeis complex and associated malformations is important for the detailed counseling of the family as well as appropriate perinatal management by the obstetricians , pediatric surgeons , urologists , neurosurgeons , and neonatologists
+nonimmune hydrops fetails diagnosed at <num> weeks ' gestation with profound ascites , hydrothorax , and pericardial effusion receded gradually with regression of a subchorial placental lucencies immediately below the umbilical cord insertion
+careful inspection of the delivered placenta revealed that there was a yellowish lesion of fibrin deposits below the cord insertion site , which resulted from the absorption of hematoma
+a subchorial placental hematoma , which detected as a subchorial placental lucencies by ultrasonography , can be a cause of reversible nonimmune hydrops fetalis
+the mitochondrial diseases are uncommon multisystem disorders characterized by the presence of functionally and/or structurally abnormal mitochondria
+as there have been few reports of the obstetrical care of affected patients , we wish to document two pregnancies in a woman with a chronic progressive external ophthalmoplegia ( kearns-sayre-like syndrome )
+both pregnancies were complicated by preterm labor and hypertension
+context : four genetic loci have been identified as contributing to alzheimer disease ( ad ) , including the amyloid precursor protein gene , the presenilin <num> gene , the presenilin <num> gene , and the apolipoprotein e gene , but do not account for all the genetic risk for ad
+objective : to identify additional genetic risk factors for late-onset ad
+design : a complete genomic screen was performed ( n=280 markers )
+critical values for chromosomal regional follow-up were a p value of .05 or less for affected relative pair analysis or sibpair analysis , a parametric lod score of 1.0 or greater , or both
+regional follow-up included analysis of additional markers and a second data set
+setting : clinic populations in the continental united states
+patients : > from a series of multiplex families affected with late-onset ( > or =60 years ) ad ascertained during the last <num> years ( national insititute of neurological disorders and stroke-alzheimer 's disease and related disorders association diagnostic criteria ) and for which dna has been obtained , a subset of <num> families ( <num> total family members , <num> of whom were patients with ad ) was used for the genomic screen
+a second subset of <num> families ( <num> total family members , <num> of whom were patients with ad ) was used for the follow-up analysis
+main outcome measures : linkage analysis results generated using both genetic model-dependent ( lod score ) and model-independent methods
+results : fifteen chromosomal regions warranted initial follow-up
+follow-up analyses revealed <num> regions of continued interest on chromosomes <num> , <num> , <num> , and <num> , with the strongest results observed forchromosome <num>
+peak 2-point affecteds-only lod scores ( n=54 ) were 1.3 , 1.6 , 2.7 , and 2.2 and affected relative pairs p values ( n=54 ) were .04 , .03 , .14 , and .04 for d12s373 , d12s1057 , d12s1042 , and d12s390 , respectively
+sibpair analysis ( n=54 ) resulted in maximum lod scores ( mlss ) of 1.5 , 2.6 , 3.2 , and 2.3 for these markers , with a peak multipoint mls of 3.5
+a priori stratification by apoe genotype identified <num> families that had at least <num> member with ad whose genotype did not contain an apoe*4 allele
+analysis of these <num> families resulted in mlss of 1.0 , 2.4 , 3.7 , and 3.3 and a peak multipoint mls of 3.9
+conclusions : a complete genomic screen in families affected with late-onset ad identified <num> regions of interest after follow-up
+chromosome <num> gave the strongest and most consistent results with a peak multipoint mls of 3.5 , suggesting that this region contains a new susceptibility gene for ad
+additional analyses are necessary to identify the chromosome <num> susceptibility gene for ad and to follow up the regions of interest on chromosomes <num> , <num> , and <num>
+context : a mutation in the brca1 gene may confer substantial risk for breast and/or ovarian cancer
+however , knowledge regarding all possible mutations and the relationship between risk factors and mutations is incomplete
+objectives : to identify brca1 mutations and to determine factors that best predict presence of a deleterious brca1 mutation in patients with breast and/or ovarian cancer
+design : a complete sequence analysis of the brca1 coding sequence and flanking intronic regions was performed in <num> women in a collaborative effort involving institutions from the united states , italy , germany , finland , and switzerland
+participants : institutions selected <num> persons representing families ( <num> person for each family ) thought to be at elevated a priori risk of brca1 mutation due to potential risk factors , such as multiple cases of breast cancer , early age of breast cancer diagnosis , and cases of ovarian cancer
+no participant was from a family in which genetic markers showed linkage to the brca1 locus
+major outcome measures : sequence variants detected in this sample are presented along with analyses designed to determine predictive characteristics of those testing positive for brca1 mutations
+results : in <num> women ( 12.8 % ) , clearly deleterious mutations were detected
+fifty new genetic alterations were found including <num> deleterious mutations , <num> variants of unknown significance , and <num> rare polymorphisms
+in a subset of <num> ashkenazi jewish women , only <num> distinct deleterious mutations were found : 185delag in <num> cases and 5382insc in <num> cases
+a bias in prior reports for mutations in exon <num> was revealed
+characteristics of a patient 's specific diagnosis ( unilateral or bilateral breast cancer , with or without ovarian cancer ) , early age at diagnosis , ashkenazi jewish ethnicity , and family history of cancer were positively associated with the probability of her carrying a deleterious brca1 mutation
+conclusions : using logistic regression analysis , we provide a method for evaluating the probability of a woman 's carrying a deleterious brca1 mutation for a wide range of cases , which can be an important tool for clinicians as they incorporate genetic susceptibility testing into their medical practice
+context : approximately <num> % of prostate cancer cases have been estimated to result from inheritance of mutated prostate cancer susceptibility genes
+few data exist as to whether there are clinical differences between prostate cancers that are inherited and those that occur in the general population
+objective : to investigate phenotypic characteristics of families potentially linked to the hereditary prostate cancer <num> ( hpc1 ) locus on chromosome 1q24-25
+design : retrospective case study in which clinical data were extracted from medical and pathological records
+families : a total of <num> north american families with hereditary prostate cancer
+prostate cancer cases from the national cancer data base were used as a reference population for comparison
+main outcome measures : the families were divided into <num> groups : either potentially linked ( <num> families with <num> men with prostate cancer ) , and thus likely to be carrying an altered hpc1 gene , or potentially unlinked ( <num> families with <num> men with prostate cancer ) , on the basis of haplotype analysis in the region of hpc1
+the age at diagnosis of prostate cancer , serum prostate-specific antigen levels , digital rectal examination status , stage , grade , primary treatment of prostate cancers , and occurrence of other cancers were compared between the groups
+results : the mean age at diagnosis of prostate cancer for men in potentially linked families was significantly lower than for men in potentially unlinked families ( 63.7 vs 65.9 years , respectively , p=.01 ; mean age at diagnosis in the reference population was 71.6 years )
+higher-grade cancers ( grade <num> ) were more common in potentially linked families , and advanced-stage disease was found in <num> % of the case patients in potentially linked families compared with <num> % in both the potentially unlinked families and the reference groups ( p=.03 for the latter comparison )
+in the other clinical parameters , we found no significant differences between the groups
+a modest excess of breast cancer and colon cancer was found in potentially linked families in comparison with potentially unlinked families , but this difference was not statistically significant
+conclusions : families that provide evidence for segregation of an altered hpc1 gene are characterized by multiple cases of prostate cancer that , in most respects , are indistinguishable from nonhereditary cases
+however , <num> characteristics were observed : younger age at diagnosis , higher-grade tumors , and more advanced-stage disease
+our study shows that a significant fraction of hereditary prostate cancers are diagnosed in advanced stages , emphasizing the clinical importance of early detection in men potentially carrying prostate cancer susceptibility genes
+these findings support the current recommendations to screen men with a positive family history of prostate cancer beginning at age <num> years
+context : susceptibility to multiple sclerosis ( ms ) involves a genetically complex autoimmune component
+however , except for genes in the hla system , specific susceptibility loci are unknown or unconfirmed
+objective : to investigate several loci spanning <num> candidate regions for a role in multiple sclerosis ( ms ) susceptibility in <num> ethnic groups using both single-locus and haplotype analyses
+the <num> regions include hla on chromosome 6p21.3 , apoe on chromosome 19ql 3.2 , and mbp ( myelin basic protein ) on chromosome 18q23
+design : case-control association testing
+subjects : a total of <num> caucasian patients with ms and <num> unrelated control individuals from california , and <num> patients and <num> unrelated control individuals from beijing , china
+all patients with ms were diagnosed as having clinically definite disease according to published criteria
+main outcome measures : chi2 testing of loci and individual alleles and haplotypes
+haplotype frequencies were estimated with standard maximum likelihood methods
+results : the hla effect is due to the class ii dr2 haplotype , drb1*1501-dqa1*0102-drb1*0602 ; contributions to ms susceptibility from additional drb1-dqb1 alleles or other hla region loci were not observed
+variation within the mbp locus on chromosome 18q23 showed no effect in ms
+the distribution of haplotypes from <num> loci within the chromosome 19q13.2 region , including d19s178 , d19s574 , apoe , apoc2 , and d19s219 , differed between patient and control samples
+d19s574 showed a significant effect ( p=.015 ) in caucasian patients with ms due to the increased frequency of a single allele ( p=.002 )
+the apoe variation , prominent in other neurological diseases , showed no influence on ms susceptibility , despite its location within the chromosome 19q13.2 region
+interaction effects between dr2 and chromosome 19q13.2 or mbp in ms susceptibility were not apparent
+conclusions : the significant chromosome 19q13.2 single-locus and multilocus haplotype associations with ms in caucasian and chinese patient samples indicate an effect from a nearby disease susceptibility locus
+these initial observations are an encouraging step toward the description of non-hla genetic susceptibility to ms
+< to_see > context : there is a substantial risk of a second cancer for persons with hereditary retinoblastoma , which is enhanced by radiotherapy
+< to_see > objective : to examine long-term risk of new primary cancers in survivors of childhood retinoblastoma and quantify the role of radiotherapy in sarcoma development
+design : cohort incidence study of patients with retinoblastoma followed for a median of <num> years , and nested case-control study of a radiation dose-response relationship for bone and soft tissue sarcomas
+setting/participants : a total of <num> patients with retinoblastoma who survived at least <num> year after diagnosis , identified from hospital records in massachusetts and new york during <num> to <num>
+results : incidence of subsequent cancers was statistically significantly elevated only in the <num> patients with hereditary retinoblastoma , in whom <num> cancers were diagnosed , vs 6.3 expected in the general population ( relative risk ( rr ) , <num> ( <num> % confidence interval , 26-47 ) )
+cumulative incidence ( +/-se ) of a second cancer at <num> years after diagnosis was 51.0 % ( +/-6.2 % ) for hereditary retinoblastoma , and 5.0 % ( +/-3.0 % ) for nonhereditary retinoblastoma
+all <num> sarcomas of diverse histologic types occurred in patients with hereditary retinoblastoma
+for soft tissue sarcomas , the rrs showed a stepwise increase at all dose categories , and were statistically significant at <num> to 29.9 gy and <num> to 59.9 gy
+a radiation risk for all sarcomas combined was evident at doses above <num> gy , rising to 10.7-fold at doses of <num> gy or greater ( p & # <num> ; .05 )
+< to_see > conclusions : genetic predisposition has a substantial impact on risk of subsequent cancers in retinoblastoma patients , which is further increased by radiation treatment
+a radiation dose-response relationship is demonstrated for all sarcomas and , for the first time in humans , for soft tissue sarcomas
+retinoblastoma patients should be examined for new cancers and followed into later life to determine whether their extraordinary cancer risk extends to common cancers of adulthood
+the objective of this study was to determine the rate of recent cocaine use among a metropolitan population of predominantly hispanic and african-american women with preterm premature rupture of the membranes ( prom ) and to ascertain the impact of cocaine on the latency period between rupture of membranes and delivery
+urine toxicology screens were prospectively obtained on <num> women with preterm prom
+the urine screen did not influence management decisions
+all women were expectantly managed without tocolytics until <num> weeks ' gestation unless they developed clinical chorioamnionitis , or nonreassuring fetal heart rate tracing or biophysical profile
+demographic information , hours from rupture of membranes to delivery , gestational age , and birth weight at delivery were compared using fisher 's exact , mann-whitney u , and randomization tests where appropriate
+the rate of positive urine drug screens for cocaine was 8.2 %
+women in the cocaine positive group were of higher parity ( <num> , ( 0-7 ) vs. <num> , ( 0-6 ) , p = 0.001 ) and tended to be older ( <num> , ( 23-42 ) vs. <num> , ( 14-40 ) )
+there was a higher rate of recent cocaine use among african-american women ( 20.4 % ) as compared to non-african-americans ( 1.2 % , p = 0.0001 )
+cocaine-positive women presented at an earlier gestational age ( <num> weeks ' , ( 24-34 ) vs. <num> weeks ' , ( 23-36 ) , p = 0.02 ) and had a significantly longer membrane rupture to delivery interval than women with a negative urine drug screen ( <num> hr , ( 6-475 ) vs. <num> hours ( 1-833 ) , p = 0.01 )
+there was no significant difference in the reason for delivery between the two groups of patients
+recent cocaine use among women with preterm prom is common in only some segments of an urban population
+women with recent cocaine use present with ruptured membranes at an earlier gestational age and may actually have a longer latency period than women who do not use cocaine
+the objective of this article is to explore attitudes of an inner-city , pregnant cohort about general and hiv-related prenatal care
+responses to an interview at initial prenatal care enrollment were compared using chi-square and fisher 's exact tests
+of <num> women , drug users ( <num> % ) were more likely to say that they would defer initiating prenatal care ( p = 0.03 ) and to minimize the risk of drug or alcohol use to the fetus ( p = 0.04 )
+most ( <num> % ) viewed pregnancy as inappropriate for hiv infected women and primarily drug users ( p = 0.06 ) would abort if hiv infected
+over half thought hiv transmission occurred most times or always
+only <num> % had heard of a drug to reduce this risk , but <num> % would take such a therapy
+these inner-city , pregnant women disapproved of pregnancy if hiv infected and thought the risk of transmission was high
+they knew little of how to reduce this risk but nearly all would accept a drug to prevent transmission
+the association of parvovirus b19 infection and hydrops fetalis is well known
+however , the association of parvovirus and fetal pleural or pericardial effusions has not been reported
+we present five cases of isolated pleural or pericardial effusion with documented maternal parvovirus infection in four of these pregnancies
+in the absence of structural or karyotypic abnormalities , spontaneous resolution of the effusion portends for a successful pregnancy outcome
+background : cochlear implantation is nowadays a reliable and well-accepted method of auditory rehabilitation in selected adults and children
+methods : we present rehabilitation data on <num> adult patients provided with the nucleus ci22 m cochlear implant using the speak strategy
+results : results of first tune-up show an open set speech understanding in approximately <num> % of patients
+long-term results also reveal further improvement in patients who had no open set speech understanding
+our data seem to indicate similar results in comparison to other groups using the cis strategy
+conclusions : in adults , open set speech understanding can be achieved even at the first tune-up
+results of early rehabilitation seem to be influenced by duration and etiology of deafness , experience with hearing aids , and other factors
+adverse drug effects are manifold and heterogenous
+many situations may hamper the signalling ( i.e . the detection of early warning signs ) of adverse effects and new signals often differ from previous experiences
+signals have qualitative and quantitative aspects
+different categories of adverse effects need different methods for detection
+current pharmacovigilance is predominantly based on spontaneous reporting and is mainly helpful in detecting type b effects ( those effects that are often allergic or idiosyncratic reactions , characteristically occurring in only a minority of patients and usually unrelated to dosage and that are serious , unexpected and unpredictable ) and unusual type a effects ( those effects that are related to the pharmacological effects of the drug and are dosage-related )
+examples of other sources of signals are prescription event monitoring , large automated data resources on morbidity and drug use ( including record linkage ) , case-control surveillance and follow-up studies
+type c effects ( those effects related to an increased frequency of 'spontaneous ' disease ) are difficult to study , however , and continue to pose a pharmacoepidemiological challenge
+seven basic considerations can be identified that determine the evidence contained in a signal : quantitative strength of the association , consistency of the data , exposure response relationship , biological plausibility , experimental findings , possible analogies and the nature and quality of the data
+a proposal is made for a standard signal management procedure at pharmacovigilance centres , including the following steps : signal delineation , literature search , preliminary inventory of data , collection of additional information , consultation with the world health organization centre for international drug monitoring and the relevant drug companies , aggregated data assessment and a report in writing
+a better understanding of the conditions and mechanisms involved in the detection of adverse drug effects may further improve strategies for pharmacovigilance
+objective : to study the safety and efficacy of methylphenidate in children with the dual diagnosis of epilepsy and attention deficit hyperactivity disorder ( adhd )
+study design : thirty children , aged 6.4 to 16.4 years , with epilepsy and adhd were studied during a 4-month period
+during the initial <num> months of the study , the children were treated with antiepileptic drugs ( aeds ) only , and for the remaining <num> months , methylphenidate was added at a morning dose of 0.3 mg/kg
+they underwent neurologic assessment , brain computed tomography , iq testing , and assessment with the childhood behavior checklist at baseline before methylphenidate therapy
+electroencephalography , aed determinations , and the continuous-performance task ( cpt ) test were done at baseline and after <num> months of methylphenidate therapy
+a double-blind , crossover design was used to compare the effects of methylphenidate versus placebo on an electroencephalogram , aed levels , and the cpt
+on the <num> days of testing , the child received aeds and a capsule containing either placebo or methylphenidate
+results : none of the <num> children of this sample who were seizure free had attacks while taking methylphenidate
+of the <num> children with seizures , <num> had an increase in attacks , whereas the other <num> showed no change or a reduction
+there were no significant changes in aed levels or electroencephalographic findings
+methylphenidate benefited <num> % of children according to parental report ; methylphenidate also enhanced performance on the cpt
+side effects of methylphenidate were mild and transient
+conclusion : methylphenidate is effective in treating children with epilepsy and adhd and safe in children who are seizure free
+caution is warranted for those still having seizures while receiving aed therapy
+the temporal properties of semantic and phonological processes in speech production were investigated in a new experimental paradigm using movement-related brain potentials
+the main experimental task was picture naming
+in addition , a 2-choice reaction go/no-go procedure was included , involving a semantic and a phonological categorization of the picture name
+lateralized readiness potentials ( lrps ) were derived to test whether semantic and phonological information activated motor processes at separate moments in time
+an lrp was only observed on no-go trials when the semantic ( not the phonological ) decision determined the response hand
+varying the position of the critical phoneme in the picture name did not affect the onset of the lrp but rather influenced when the lrp began to differ on go and no-go trials and allowed the duration of phonological encoding of a word to be estimated
+these results provide electrophysiological evidence for early semantic activation and later phonological encoding
+the effects of alanine and glycine substitution for tryptophan upon the species heterogeneity of gramicidin a analogs incorporated into sds micelles have been investigated
+the sequential replacement of the four tryptophan residues in gramicidin a at positions <num> , <num> , <num> , and <num> with glycine showed that there was no detectable effect at position <num> but increasing heterogeneity of species in the micelles proceeding toward the interior of the micelle at position <num>
+the replacement of tryptophan at positions <num> and <num> with alanine was found to produce more species heterogeneity than found with glycine substitution at the same positions
+an increase in the sds concentration reduces the number of different species present in micelles
+with the gly-11 , gly-13 , and gly-15 analogs , the increase in sds concentration results in the formation of a single species ; however , for the gly-9 , ala-9 , and ala-15 analogs , heterogeneity remains
+molecular dynamics in torsion-angle space was applied to nuclear magnetic resonance structure calculation using nuclear overhauser effect-derived distances and j-coupling-constant-derived dihedral angle restraints
+compared to two other commonly used algorithms , molecular dynamics in cartesian space and metric-matrix geometry combined with cartesian molecular dynamics , the method shows increased computational efficiency and success rate for large proteins , and it shows a dramatically increased radius of convergence for dna
+the torsion-angle molecular dynamics algorithm starts from an extended strand conformation and proceeds in four stages : high-temperature torsion-angle molecular dynamics , slow-cooling torsion-angle molecular dynamics , cartesian molecular dynamics , and minimization
+tests were carried out using experimental nmr data for protein g , interleukin-8 , villin 14t , and a <num> base-pair duplex of dna , and simulated nmr data for bovine pancreatic trypsin inhibitor
+for villin 14t , a monomer consisting of <num> residues , structure determination by torsion-angle molecular dynamics has a success rate of <num> % , a more than twofold improvement over other methods
+in the case of the <num> base-pair dna duplex , torsion-angle molecular dynamics had a success rate of <num> % while cartesian molecular dynamics and metric-matrix distance geometry always failed
+the wavelet-transform method is used to quantify the magnetic resonance spectroscopy ( mrs ) parameters : chemical shift , apparent relaxation time t2 , resonance amplitude , and phase
+wavelet transformation is a time-frequency representation which separates each component from the fid , then successively quantifies it and subtracts it from the raw signal
+two iterative procedures have been developed
+they have been combined with a nonlinear regression analysis method and tested on both simulated and real sets of biomedical mrs data selected with respect to the main problems usually encountered in quantifying biomedical mrs , specifically `` chemical noise , '' resulting from overlapping resonances , and baseline distortion
+the results indicate that the wavelet-transform method can provide efficient and accurate quantification of mrs data
+background : antiplatelet therapy with aspirin and systematic anticoagulation with warfarin reduce cardiovascular morbidity and mortality after myocardial infarction when given alone
+in the coumadin aspirin reinfarction study ( cars ) , we aimed to find out whether a combination of low-dose warfarin and low-dose aspirin would give superior results to standard aspirin monotherapy without excessive bleeding risk
+methods : we used a randomised double-blind study design
+at <num> sites , we randomly assigned <num> patients who had had myocardial infarction , treatment with <num> mg aspirin , <num> mg warfarin with <num> mg aspirin , or <num> mg warfarin with <num> mg aspirin
+patients took a single tablet daily , and attended for prothrombin time ( pt ) measurements at weeks <num> , <num> , <num> , <num> , <num> , and <num> , and then every <num> months
+patients were followed up for a maximum of <num> months ( median <num> months )
+findings : the primary event was first occurrence of reinfarction , non-fatal ischaemic stroke , or cardiovascular death
+1-year life-table estimates for the primary event were 8.6 % ( <num> % ci 7.6-9.6 ) for <num> mg aspirin , 8.4 % ( 7.4-9.4 ) for <num> mg warfarin with <num> mg aspirin , and 8.8 % ( 7.6-10 ) for <num> mg warfarin with <num> mg aspirin
+primary comparisons were done with all follow-up data
+the relative risk of the primary event for the <num> mg aspirin group compared with the <num> mg warfarin with <num> mg aspirin group was 0.95 ( 0.81-1.12 , p = 0.57 )
+for spontaneous major haemorrhage ( not procedure related ) , 1-year life-table estimates were 0.74 % ( 0.43-1.1 ) in the <num> mg aspirin group and 1.4 % ( 0.94-1.8 ) in the <num> mg warfarin with <num> mg aspirin group ( p = 0.014 log rank on follow-up )
+for the <num> patients assigned <num> mg warfarin with <num> mg aspirin , the inr results were : at week <num> ( n = <num> ) median 1.51 ( iqr 1.23-2.13 ) ; at week <num> ( n = <num> ) 1.27 ( 1.13-1.64 ) ; at month <num> ( n = <num> ) 1.19 ( 1.08-1.44 )
+interpretation : low , fixed-dose warfarin ( <num> mg or <num> mg ) combined with low-dose aspirin ( <num> mg ) in patients who have had myocardial infarction does not provide clinical benefit beyond that achievable with <num> mg aspirin monotherapy
+background : there is serological evidence for an association between chlamydia pneumoniae and coronary heart disease
+we investigated the hypothesis that an antichlamydial macrolide antibiotic , roxithromycin , can prevent or reduce recurrent major ischaemic events in patients with unstable angina
+methods : the effect of roxithromycin was assessed in a double-blind , randomised , prospective , multicentre , parallel-group , placebo-controlled pilot study of <num> patients with unstable angina or non-q-wave myocardial infarction
+patients were randomly assigned either roxithromycin <num> mg orally twice a day ( n = <num> ) or placebo orally twice a day ( n = <num> )
+the treatment was for <num> days
+patients were followed up for <num> months
+we report the primary clinical endpoints ( cardiac ischaemic death , myocardial infarction , and severe recurrent ischaemia ) , assessed at day <num> , in <num> patients on an intention-to-treat basis
+findings : a statistically significant reduction in the primary composite triple endpoint rates was observed in the roxithromycin group : p = 0.032
+the rate of severe recurrent ischaemia , myocardial infarction , and ischaemic death was 5.4 % , 2.2 % , and 2.2 % in the placebo group and 1.1 % , <num> % , and <num> % , in the roxithromycin group , respectively
+no major drug-related adverse effects were observed
+interpretation : antichlamydial antibiotics may be useful in therapeutic intervention in addition to standard medication in patients with coronary-artery disease
+large-scale trials are needed to confirm these preliminary observations
+background : stage ib and iia cervical carcinoma can be cured by radical surgery or radiotherapy
+these two procedures are equally effective , but differ in associated morbidity and type of complications
+in this prospective randomised trial of radiotherapy versus surgery , our aim was to assess the 5-year survival and the rate and pattern of complications and recurrences associated with each treatment
+methods : between september , <num> , and december , <num> , <num> women with newly diagnosed stage ib and iia cervical carcinoma were referred to our institute
+<num> eligible patients were randomised : <num> to surgery and <num> to radical radiotherapy
+adjuvant radiotherapy was delivered after surgery for women with surgical stage pt2b or greater , less than <num> mm of safe cervical stroma , cut-through , or positive nodes
+the primary outcome measures were 5-year survival and the rate of complications
+the analysis of survival and recurrence was by intention to treat and analysis of complications was by treatment delivered
+findings : <num> patients in the surgery group and <num> in the radiotherapy group were included in the intention-to-treat analysis ; scheduled treatment was delivered to <num> and <num> women , respectively , <num> of <num> women with cervical diameters of <num> cm or smaller and <num> of <num> with diameters larger than <num> cm received adjuvant therapy
+after a median follow-up of <num> ( range 57-120 ) months , 5-year overall and disease-free survival were identical in the surgery and radiotherapy groups ( <num> % and <num> % , respectively , for both groups ) , <num> women developed recurrent disease : <num> ( <num> % ) in the surgery group and <num> ( <num> % ) in the radiotherapy group
+significant factors for survival in univariate and multivariate analyses were : cervical diameter , positive lymphangiography , and adeno-carcinomatous histotype
+<num> ( <num> % ) surgery-group patients had severe morbidity compared with <num> ( <num> % ) radiotherapy-group patients ( p = 0.0004 )
+interpretation : there is no treatment of choice for early-stage cervical carcinoma in terms of overall or disease-free survival
+the combination of surgery and radiotherapy has the worst morbidity , especially urological complications
+the optimum therapy for each patient should take account of clinical factors such as menopausal status , age , medical illness , histological type , and cervical diameter to yield the best cure with minimum complications
+today 's technology links health care providers and patients across town , in the next state or even another country
+nursing across state lines poses complications : state-bound regulatory and licensure issues
+this article discusses many of the nutritional topics important to the intensivist
+nutritional assessment , substrate immunonutrition , and disease specific issues are presented
+early introduction of enteral feeds and the use of nutritional modulation are emphasized
+problem : to compare the expression by t-lymphocytes of an immunomodulatory protein known as progesterone-induced blocking factor ( pibf ) in conception versus non-conception cycles even when there has been definite fertilization and embryo formation
+method : pibf expression on t lymphocytes was measured using an immunohistochemical method with a pibf-specific polyclonal antibody
+these levels were determined in patients undergoing three types of therapy : non-in vitro fertilization ( ivf ) , ivf-embryo transfer ( et ) , and frozen et
+sera were drawn <num> days from ovulation in non-ivf cycles or <num> days after et and were assayed for pibf and beta human chorionic gondotropin
+comparison of the frequency of lymphocyte expression of pibf in pregnant versus non-pregnant women were made
+results : pibf was detected in 29.5 % of non-pregnant women and 52.5 % of pregnant women
+there were no differences in pibf levels by therapy used in non-pregnant cases or in the pregnant group
+conclusion : these data are consistent with the hypothesis that maternal expression of pibf in t-lymphocytes soon after trophoblast invasion may depend on successful implantation
+many amino acids contain an asymmetric centre , occurring as laevorotatory , l , or dextrorotatory , d , compounds
+it is generally assumed that abiotic synthesis of amino acids on the early earth resulted in racemic mixtures ( l- and d-enantiomers in equal abundance )
+but the origin of life required , owing to conformational constraints , the almost exclusive selection of either l- or d-enantiomers , and the question of why living systems on the earth consist of l-enantiomers rather than d-enantiomers is unresolved
+a substantial fraction of the organic compounds on the early earth may have been derived from comet and meteorite impacts
+it has been reported previously that amino acids in the murchison meteorite exhibit an excess of l-enantiomers , raising the possibility that a similar excess was present in the initial inventory of organic compounds on the earth
+the stable carbon isotope compositions of individual amino acids in murchison support an extraterrestrial origin -- rather than a terrestrial overprint of biological amino acids-although reservations have persisted
+here we show that individual amino-acid enantiomers from murchison are enriched in 15n relative to their terrestrial counterparts , so confirming an extraterrestrial source for an l-enantiomer excess in the solar system that may predate the origin of life on the earth
+home care workers face an increasing risk for workplace violence
+a proactive preventive approach is presented that suggests strategies to use during the previsit phase , the visit experience , and on an ongoing basis
+the miracidia of fasciola hepatica and trichobilharzia ocellata approach their host snails lymnaea truncatula and l. stagnalis by increasing their rate of change of direction ( rcd ) in increasing gradients of snail-conditioned water ( scw ) , and they perform a turnback swimming in decreasing gradients
+both hostfinding responses in both species were induced by glycoconjugates with a molecular weight of > <num> kda that were sensitive to hydrolysis with pronase e and oxidation with naio4
+alkaline cleavage revealed that they contained carbohydrates linked o-glycosidically via serine and n-acetylgalactosamine
+miracidia clearly preferred scw from their specific host snail versus other sympatric snail species and did not respond to water conditioned with fish , tadpoles , or leeches
+differences in the chemical characteristics of scw from the intermediate hosts l. truncatula and l. stagnalis could be shown by sodium dodecyl sulfate-polyacrylamide gel electrophoresis , blotting , and subsequent carbohydrate detection
+the first step of purification of the effective signaling scw components from both snail species was achieved by ion-exchange chromatography
+black patients with colon cancer in the black/white cancer survival study were found to have a poorer survival than white patients
+more advanced-stage disease at diagnosis was the primary determinant , accounting for <num> % of the excess mortality
+after adjusting for stage , factors such as poverty , other socioeconomic conditions , and treatment did not further explain the remaining survival deficit
+this study examined the aggressiveness of colon tumors in blacks and whites to explore its role in the racial survival differences
+tumor characteristics of <num> cases of newly diagnosed invasive colon adenocarcinoma were centrally evaluated by a gastrointestinal pathologist , blinded in regard to the age , race , and sex of the patients
+blacks were less likely to have poorly differentiated ( grade <num> ) tumors ( odds ratio ( or ) , 0.44 ; <num> % confidence interval , 0.22-0.88 ) and lymphoid reaction ( or , 0.49 ; <num> % confidence interval , 0.26-0.90 ) when compared with whites
+these black/white ( b/w ) differences remained statistically significant after adjusting for age , sex , metropolitan area , summary stage , socioeconomic status , body mass index , and health care access and utilization
+in addition , blacks were less likely to have high-grade ( grade <num> ) nuclear atypia , mitotic activity , and tubule formation , although these ors did not reach a statistical significance level of 0.05
+similar b/w differences were observed for patients with advanced disease but not with early stage
+comparison by anatomical subsite showed that blacks had statistically significantly better differentiated tumors for cancers of the proximal and transverse colon but not for the distal
+no racial differences were found for blood vessel and lymphatic invasion , necrosis , fibrosis , and mucinous type of histology
+the findings , therefore , are the opposite of those hypothesized
+after adjusting for stage , more aggressive tumor characteristics do not explain the adverse survival differential in blacks
+this suggests that there may be racial differences in environmental exposure , and that the intensity and mode of delivery of carcinogen insult as well as host susceptibility may differ by race and anatomical subsite
+future studies should explore the b/w differences in tumor biology using molecular markers that precede the conventional histological parameters evaluated here
+a new method is described for detection of mutations in the lysosomal alpha-glucosidase gene ( gaa ) leading to glycogen storage disease type ii ( gsdii )
+a key feature of the method is isolation and reverse transcription of mrna followed by pcr amplification of lysosomal alpha-glucosidase cdna with m13-extended primers
+dye labeled primers are used for cycle sequencing and an abi prism <num> dna sequencing system for analysis
+the method is rapid and complementary to the automated sequencing of all the <num> , pcr amplified , coding exons of the gaa gene
+the advantages and pitfalls of this new method are discussed in the light of the results obtained with an infantile gsdii patient
+a new splice site mutation in the gaa gene of this patient was identified , ivs16 ( +2t -- > c ) , resulting in the deletion of <num> base pairs of exon <num>
+the presence of clinical autonomic dysfunction in patients with neurologic diseases , such as multiple sclerosis , parkinson 's disease , and cerebrovascular accident , has become increasingly recognized in the past decade
+very few autonomic tests have been done on pediatric patients thus far
+the purpose of this study was to investigate the autonomic function in patients with cerebral palsy using two noninvasive tests : sympathetic skin response ( ssr ) and r-r interval variation ( rriv )
+twenty-four patients with cerebral palsy and <num> control subjects between the ages of <num> and <num> yr were enrolled in this study
+there was no significant difference of mean latency , amplitude , or amplitude ratio of ssr between the two groups under electric stimulus , startling stimulus , and deep breathing conditions
+no significant difference in frequency of absent response and asymmetric response was also noted
+mean heart rate under relaxed sitting condition was significantly higher in the study group
+significant negative correlation between heart rate and age was noted in the control group but was not present in the study group
+also , there was no statistical difference of mean rriv between the two groups
+no objective evidence of autonomic disturbance in patients with cerebral palsy was found in this study
+a two-credits per semester clinical medicine course was established in the department of physical medicine and rehabilitation ( pm & # <num> ; r ) in cooperation with the johns hopkins university undergraduate human biology faculty to present the variety of inpatient consultation personnel , units , patient diagnostic groups , and functional problems
+college students spend <num> hr weekly on the pm & # <num> ; r consultation service as team members under resident supervision
+the curriculum emphasizes student understanding of the roles of rehabilitation team members
+objectives include demonstration of working knowledge of the biopsychosocial model , the world health organization model of disablement and interdisciplinary rehabilitation intervention
+the course includes simulations of physical impairments , demonstrations of adaptive equipment , interactive chart reviews , readings , and audio lectures
+a retrospective sequential review was made of the last <num> physical medicine and rehabilitation consultations with student attendance
+the results confirm student exposure to many ward settings ( surgery , <num> % ; neurology/neurosurgery , <num> % ; medicine , <num> % ; intensive care , <num> % ; oncology , <num> % ; and psychiatry , <num> % ) , patient complexity ( averaging <num> problems ) , and multiple icd-9 diagnosis categories ( circulatory , <num> % ; neurologic , <num> % ; musculoskeletal , <num> % ; neoplasms , <num> % ; injury , <num> % ; endocrine , <num> % ; infections , <num> % ; and others , <num> % )
+the rehabilitation consultation service is particularly effective as an introduction to hospital-based medical practice due to the diagnostic variety of the patients , the functional approach of rehabilitation , and student exposure to multiple hospital settings
+the biopsychosocial model of medical practice is demonstrated through multiple interdisciplinary perspectives of needs and interventions for patients with obvious functional deficits
+this process develops a rudimentary understanding of the effect of illness on the person and the variety of medically effective therapeutic modalities
+this study is designed to investigate the immediate effectiveness of electrotherapy on myofascial trigger points of upper trapezius muscle
+sixty patients ( <num> males and <num> females ) who had myofascial trigger points in one side of the upper trapezius muscles were studied
+the involved upper trapezius muscles were treated with three different methods according to a random assignment : group a muscles ( n = <num> ) were given placebo treatment ( control group ) ; group b muscles ( n = <num> ) were treated with electrical nerve stimulation ( ens ) therapy ; and group c muscles ( n = <num> ) were given electrical muscle stimulation ( ems ) therapy
+the effectiveness of treatment was assessed by conducting three measurements on each muscle before and immediately after treatment : subjective pain intensity ( ( pi ) with a visual analog scale ) , pressure pain threshold ( ( pt ) with algometry ) , and range of motion ( ( rom ) with a goniometer ) of upper trapezius muscle ( lateral bending of cervical spine to the opposite side )
+when the effectiveness of treatment was compared with that of the placebo group ( group a ) , there was significant improvement in pi and pt in group b ( p & # <num> ; 0.01 ) but not in group c ( p > 0.05 )
+the improvement of rom was significantly more in group c ( p & # <num> ; 0.01 ) as compared with that in group a or group b
+when each group was divided into two additional subgroups based on the initial pi , it was found that ens could reduce pi and increase pt significantly ( p & # <num> ; 0.05 ) , but did not significantly ( p > 0.05 ) improve rom , as compared with the placebo group for both subgroups
+ems could significantly ( p & # <num> ; 0.05 ) improve rom , but not pt , better than the placebo groups , for either subgroup
+it could reduce pi significantly more ( p & # <num> ; 0.05 ) than placebo controls only for the subgroup with mild to moderate pain , but not with severe pain
+for pain relief , ens was significantly better ( p & # <num> ; 0.05 ) than ems ; but for the improvement of rom , ems was significantly better ( p & # <num> ; 0.05 ) than ens
+it is concluded that ens is more effective for immediate relief of myofascial trigger point pain than ems , and ems has a better effect on immediate release of muscle tightness than ens
+because activity and regular exercise are important factors to maintain general good health in senior citizens , we investigated whether senior dancing has any effect on peripheral or lumbar bone density
+we performed a prospective study over a12-mo period on bone density at a spinal and peripheral measuring site in <num> female senior members ( mean age : <num> +/- <num> yr ) of a dancing group in vienna
+lumbar bone mineral density was assessed by quantitative computed tomography ( qct ) and radial bone density by single photon absorptiometry of the distal forearm
+the mean training time per week was 3.2 +/- 0.8 h. in the entire group of female dancers , no significant effects of dancing on radial or lumbar bone density could be observed
+linear regression analysis showed that the lower the qct at the beginning of the observation period , the higher was the percentage increase of spinal qct in the entire group during <num> mo of dancing ( r = 0.52 , p & # <num> ; 0.0001 )
+for additional evaluation , females were divided into two subgroups , osteoporotic or nonosteoporotic , based on x-rays and lumbar bone mineral density ( bmd ) as measured by qct
+the group classified as dancers with osteoporosis ( group i ) showed a significant increase in lumbar bone density , whereas in the group of dancers without signs of osteoporosis ( group ii ) , bmd remained unchanged
+additionally , radial bone density did not show any changes in either group
+group i showed a significant correlation between basal spinal bmd and the percentage change of bmd during the observation period ( r = 0.7 , p & # <num> ; 0.001 )
+changes of the biochemical parameters were observed in the bone-specific isoenzyme of alkaline phosphatase , a marker of osteoblastic activity , in group i giving additional evidence of increased bone formation
+objectives : to estimate the prevalence of chlamydia trachomatis in asymptomatic women attending general practice : to assess the potential of the ligase chain reaction as a screening tool ; and to evaluate selective screening criteria
+design : cross sectional survey
+setting : four general practices in northeast london
+subjects : <num> women aged 18-35 years attending general practice for a cervical smear or a `` young well woman '' check between october <num> and january <num>
+the women were tested for c trachomatis with confirmed enzyme immunoassay ( endocervical specimens ) and ligase chain reaction assay on urine specimens
+main outcome measures : prevalence of c trachomatis infection in women aged 18-35 on the basis of each test ; sensitivity and specificity of both tests in this population
+results : prevalence of confirmed infection was 2.6 % ( <num> % confidence interval 1.6 % to 3.6 % ) in all women
+prevalence on the basis of enzyme immunoassay was 1.6 % ( 0.8 % to 2.7 % ) , with a sensitivity of <num> % and a specificity of <num> %
+prevalence on the basis of ligase chain reaction was 2.5 % ( 1.5 % to 3.9 % ) , with <num> % sensitivity and 99.8 % specificity
+screening all women aged & # <num> ; or = <num> and all women who had had two or more partners in the past year would have detected <num> % ( 20/23 ) of infections
+conclusion : ligase chain reaction on urine samples performs at least as well as enzyme immunoassay on cervical specimens in this low prevalence population
+it offers potential as a non-invasive screening tool
+a simple selective screening strategy might be appropriate and would be able to detect most cases of infection
+however , a rigorous economic evaluation of possible screening strategies is needed first
+recently , many advances have been made in the study of sexual differentiation , including the discoveries of the gene for antimã1/4llerian hormone as well as the gene for its receptor
+however , the etiology of the clinical syndrome of mã1/4llerian agenesis remains elusive
+we hypothesize that activating mutations of either the antimã1/4llerian hormone gene or its receptor gene may cause mã1/4llerian duct regression in a genetic female during embryogenesis
+this clinical commentary discusses the current management of the syndrome including the abbe-mcindoe procedure , the most commonly used method of surgical correction , and the frank vaginal dilation method , the most common nonsurgical method of correction
+objectives : obesity is an important clinical problem , and the use of dexfenfluramine hydrochloride for weight reduction has been widely publicized since its approval by the food and drug administration
+however , animal and human studies have demonstrated toxic effects of fenfluramines that clinicians should be aware of when considering prescribing the drugs
+our purpose was to systematically review data on brain serotonin neurotoxicity in animals treated with fenfluramines and the evidence linking fenfluramines to primary pulmonary hypertension ( pph )
+all live births > or = <num> weeks at the university of vermont in <num> ( n = <num> ) were retrospectively analyzed for delivery route , indication for cesarean , gestational age , parity , and practice group ( to reflect risk status )
+the total cesarean rate was 14.4 % ( <num> of <num> ) , and the primary rate was 11.4 % ( <num> of <num> )
+abnormal presentation was the most common indication ( 25.6 % , <num> of <num> )
+the `` corrected '' cesarean rate ( maternal-fetal medicine and transported patients excluded ) was 12.4 % ( <num> of <num> ) , and the `` corrected '' primary rate was 9.6 % ( <num> of <num> )
+furthermore , when all deliveries were analyzed , regardless of risk status but limited to gestational age > or = <num> weeks , the rates did not change ( 12.6 % , <num> of <num> ; primary 9.2 % , <num> of <num> )
+arrest of dilation was the most common indication in both `` corrected '' subgroups ( 23.4 and 24.6 % , respectively )
+cesarean rates at tertiary care hospitals should be compared with rates at community hospitals only after correcting for dissimilar patient groups or gestational age
+in the third trimester , the amniotic fluid index ( afi ) may be affected by maternal fluid status
+as the ambient temperature increases , there is an increase in insensible fluid loss and the potential for dehydration
+we hypothesize that as temperature increases there would be a concomitant decrease in afi
+from june <num> to august <num> , <num> , during a period of unusual high heat , <num> women with singleton pregnancies between <num> and <num> weeks ' gestation undergoing serial antenatal testing had afi determinations recorded at least weekly
+the daily high ambient temperature in our urban area was subsequently obtained
+a 2- , 3- , and 4-day mean temperature prior to the test date was compared to afi using a spearman-rank correlation
+the daily high temperature ranged from <num> to <num> degrees f and afi values ranged from 1.7 to 24.7 cm during the study period
+there was a significant correlation between the 2- , 3- , and 4-day mean temperature and afi , with the 4-day mean being the most significant ( r = 0.31 , p & # <num> ; 0.001 )
+fluctuations in ambient temperature are inversely correlated to changes in afi
+this relationship should be taken into account when interpreting the afi as a measure of fetal well-being
+this study tested the hypothesis that to reduce the rate of macrosomic infants in gestational diabetes cases , good glycemic control should be initiated before <num> completed gestational weeks
+the study population included <num> women with gestational diabetes , ascertained by universal screening of all women attending the antenatal clinic of the hadassah medical center , over a 2-year period
+the <num> women ( <num> % ) , who initiated treatment before <num> completed weeks , composed the `` early '' group
+the <num> women ( <num> % ) , who initiated treatment after the 34th week , composed the `` late '' group
+all patients were managed by an intensified protocol , including stringent glycemic control
+in the `` early '' and `` late '' groups , mean gestational age at the beginning of treatment was 30.0 +/- 3.8 and 36.2 +/- 1.2 weeks , and duration of treatment was 9.6 +/- 4.1 and 3.7 +/- 1.8 weeks , respectively
+maternal characteristics were similar in the two groups
+the rate of macrosomic and large-for-gestational-age infants were <num> and <num> % , respectively , in the early group as compared to <num> and <num> % in the `` late '' group ( p & # <num> ; 0.05 )
+no significant differences were found between the two groups in the mode of delivery or apgar scores
+we conclude that to reduce the rate of macrosomic infants in gestational diabetes cases , good glycemic control should be initiated before <num> completed gestational weeks
+our aim was to investigate the contribution of certain antenatally detectable markers leading to the diagnosis of trisomic fetuses we observed over a period of <num> years
+in our study , we specifically analyzed the role played by advanced maternal age and sonographically discovered abnormalities in the detection of autosomal trisomies
+all together , <num> fetuses had this disorder , representing 28.7 % ( <num> of <num> ) of all cytogenetic aberrations detected at our center over the same period
+down syndrome ( <num> cases ) and edward syndrome ( <num> cases ) were the most common trisomies , while <num> cases of patau syndrome were also diagnosed
+the most common indication leading to diagnosis was abnormal ultrasound finding ( 48.2 % ) , followed by advanced maternal age ( 44.4 % )
+however , <num> % of the trisomic fetuses belonged to mothers aged <num> years and above
+down syndrome fetuses ( 41.7 % ) had prenatally detected sonographic anomalies , 63.6 % for edward syndrome , and all fetuses with patau syndrome ( <num> of <num> ) showed abnormal sonographic signs
+trisomy <num> presented with the following features : hydramnios , complex malformations , pyelectasis , and duodenal atresia
+trisomy <num> fetuses showed hydramnios , intrauterine growth retardation , microcephaly , spina bifida , and nonimmune hydrops fetalis
+signs observed in fetuses with trisomy <num> were : hydrocephalus , intrauterine growth retardation , oligoanhydramnios , complex malformations , severe fetal bradycardia and hydronephrosis
+the objective of this study was to determine if the rate of preeclampsia is increased in triplet as compared to twin gestations
+fifty-three triplet pregnancies between <num> and <num> at the new york hospital-cornell medical center were reviewed
+these were matched for maternal age , parity , and race to twin gestations ( n = <num> ) from the same population
+severe preeclampsia was defined by standard criteria
+student 's t-test , fisher exact test , and chi-square were used for statistical analysis
+the rate of severe preeclampsia was increased significantly in the triplet group <num> of <num> ( 22.6 % ) as compared with the twin group <num> of <num> ( 5.7 % ) ( or = 4.9 , <num> % ci 1.2-23.5 , p = 0.02 )
+the rate of overall preeclampsia was not significantly different in the triplet <num> of <num> ( 33.96 % ) or twin <num> of <num> ( 22.6 % ) groups
+in this retrospective , case-controlled study , the rate of severe pre-eclampsia was significantly increased in triplet gestations as compared to twins although the overall rate of preeclampsia was not
+this information may be useful in counseling patients with high order multifetal gestations
+we conducted a survey and audit of thermal equipment use in very low-birth-weight infants in five ohio neonatal intensive care units ( nicus ) to document regional practice
+the survey indicated a variety of thermal care styles
+two nicus preferred to admit infants to incubators , the other three favoring radiant warmers
+these three nicus moved infants from radiant warmers into incubators at significantly different mean ages
+the audit demonstrated inconsistent use of plastic covers , warming mattresses , and added humidity under radiant warmers , and discrepancies between survey responses and actual use within nicus
+inter-nicu variability of thermal equipment use may complicate fluid management
+this report describes a full-term newborn with massive fetomaternal hemorrhage
+fetal movements were decreased <num> hr prior to delivery
+on the day of delivery , they were absent
+the nonstress test was abnormal with low biophysical profile and decreased beat-to-beat variability
+the infant presented with extreme pallor , hypotonia , hepatosplenomegaly , and ascites
+the initial hemoglobin was 2.2 g/dl , the kleihauer-betke stain was 27.6 % ( highest level ever reported )
+right temporal and cerebellar hemorrhages were present
+sequelae include severe developmental delay and asymmetric double hemiplegia
+omphalocele-exstrophy-imperforate anus-spinal defects ( oeis complex ) , a combination of omphalocele , exstrophy of the bladder , an imperforate anus and spinal defects , arises from a single localized defect in the early development of the mesoderm that will later contribute to infraumbilical mesenchyme , cloacal septum , and caudal vertebrae
+in this report , we document the perinatal features of two cases of oeis complex associated with meningomyeloceles and severe lower limb defects , and discuss the prenatal diagnosis , inheritance , and differential diagnosis of this association of malformations
+although long-term survival can be achieved by successful corrective surgery , the associated structural defects such as large meningomyelocele and severe limb aplasia or hypoplasia , as seen in our patient , can influence the patient 's quality of life .
+we would like to emphasize that an accurate prenatal diagnosis of oeis complex and associated malformations is important for the detailed counseling of the family as well as appropriate perinatal management by the obstetricians , pediatric surgeons , urologists , neurosurgeons , and neonatologists
+nonimmune hydrops fetails diagnosed at <num> weeks ' gestation with profound ascites , hydrothorax , and pericardial effusion receded gradually with regression of a subchorial placental lucencies immediately below the umbilical cord insertion
+careful inspection of the delivered placenta revealed that there was a yellowish lesion of fibrin deposits below the cord insertion site , which resulted from the absorption of hematoma
+a subchorial placental hematoma , which detected as a subchorial placental lucencies by ultrasonography , can be a cause of reversible nonimmune hydrops fetalis
+the mitochondrial diseases are uncommon multisystem disorders characterized by the presence of functionally and/or structurally abnormal mitochondria
+as there have been few reports of the obstetrical care of affected patients , we wish to document two pregnancies in a woman with a chronic progressive external ophthalmoplegia ( kearns-sayre-like syndrome )
+both pregnancies were complicated by preterm labor and hypertension
+context : four genetic loci have been identified as contributing to alzheimer disease ( ad ) , including the amyloid precursor protein gene , the presenilin <num> gene , the presenilin <num> gene , and the apolipoprotein e gene , but do not account for all the genetic risk for ad
+objective : to identify additional genetic risk factors for late-onset ad
+design : a complete genomic screen was performed ( n=280 markers )
+critical values for chromosomal regional follow-up were a p value of .05 or less for affected relative pair analysis or sibpair analysis , a parametric lod score of 1.0 or greater , or both
+regional follow-up included analysis of additional markers and a second data set
+setting : clinic populations in the continental united states
+patients : > from a series of multiplex families affected with late-onset ( > or =60 years ) ad ascertained during the last <num> years ( national insititute of neurological disorders and stroke-alzheimer 's disease and related disorders association diagnostic criteria ) and for which dna has been obtained , a subset of <num> families ( <num> total family members , <num> of whom were patients with ad ) was used for the genomic screen
+a second subset of <num> families ( <num> total family members , <num> of whom were patients with ad ) was used for the follow-up analysis
+main outcome measures : linkage analysis results generated using both genetic model-dependent ( lod score ) and model-independent methods
+results : fifteen chromosomal regions warranted initial follow-up
+follow-up analyses revealed <num> regions of continued interest on chromosomes <num> , <num> , <num> , and <num> , with the strongest results observed forchromosome <num>
+peak 2-point affecteds-only lod scores ( n=54 ) were 1.3 , 1.6 , 2.7 , and 2.2 and affected relative pairs p values ( n=54 ) were .04 , .03 , .14 , and .04 for d12s373 , d12s1057 , d12s1042 , and d12s390 , respectively
+sibpair analysis ( n=54 ) resulted in maximum lod scores ( mlss ) of 1.5 , 2.6 , 3.2 , and 2.3 for these markers , with a peak multipoint mls of 3.5
+a priori stratification by apoe genotype identified <num> families that had at least <num> member with ad whose genotype did not contain an apoe*4 allele
+analysis of these <num> families resulted in mlss of 1.0 , 2.4 , 3.7 , and 3.3 and a peak multipoint mls of 3.9
+conclusions : a complete genomic screen in families affected with late-onset ad identified <num> regions of interest after follow-up
+chromosome <num> gave the strongest and most consistent results with a peak multipoint mls of 3.5 , suggesting that this region contains a new susceptibility gene for ad
+additional analyses are necessary to identify the chromosome <num> susceptibility gene for ad and to follow up the regions of interest on chromosomes <num> , <num> , and <num>
+context : a mutation in the brca1 gene may confer substantial risk for breast and/or ovarian cancer
+however , knowledge regarding all possible mutations and the relationship between risk factors and mutations is incomplete
+objectives : to identify brca1 mutations and to determine factors that best predict presence of a deleterious brca1 mutation in patients with breast and/or ovarian cancer
+design : a complete sequence analysis of the brca1 coding sequence and flanking intronic regions was performed in <num> women in a collaborative effort involving institutions from the united states , italy , germany , finland , and switzerland
+participants : institutions selected <num> persons representing families ( <num> person for each family ) thought to be at elevated a priori risk of brca1 mutation due to potential risk factors , such as multiple cases of breast cancer , early age of breast cancer diagnosis , and cases of ovarian cancer
+no participant was from a family in which genetic markers showed linkage to the brca1 locus
+major outcome measures : sequence variants detected in this sample are presented along with analyses designed to determine predictive characteristics of those testing positive for brca1 mutations
+results : in <num> women ( 12.8 % ) , clearly deleterious mutations were detected
+fifty new genetic alterations were found including <num> deleterious mutations , <num> variants of unknown significance , and <num> rare polymorphisms
+in a subset of <num> ashkenazi jewish women , only <num> distinct deleterious mutations were found : 185delag in <num> cases and 5382insc in <num> cases
+a bias in prior reports for mutations in exon <num> was revealed
+characteristics of a patient 's specific diagnosis ( unilateral or bilateral breast cancer , with or without ovarian cancer ) , early age at diagnosis , ashkenazi jewish ethnicity , and family history of cancer were positively associated with the probability of her carrying a deleterious brca1 mutation
+conclusions : using logistic regression analysis , we provide a method for evaluating the probability of a woman 's carrying a deleterious brca1 mutation for a wide range of cases , which can be an important tool for clinicians as they incorporate genetic susceptibility testing into their medical practice
+context : approximately <num> % of prostate cancer cases have been estimated to result from inheritance of mutated prostate cancer susceptibility genes
+few data exist as to whether there are clinical differences between prostate cancers that are inherited and those that occur in the general population
+objective : to investigate phenotypic characteristics of families potentially linked to the hereditary prostate cancer <num> ( hpc1 ) locus on chromosome 1q24-25
+design : retrospective case study in which clinical data were extracted from medical and pathological records
+families : a total of <num> north american families with hereditary prostate cancer
+prostate cancer cases from the national cancer data base were used as a reference population for comparison
+main outcome measures : the families were divided into <num> groups : either potentially linked ( <num> families with <num> men with prostate cancer ) , and thus likely to be carrying an altered hpc1 gene , or potentially unlinked ( <num> families with <num> men with prostate cancer ) , on the basis of haplotype analysis in the region of hpc1
+the age at diagnosis of prostate cancer , serum prostate-specific antigen levels , digital rectal examination status , stage , grade , primary treatment of prostate cancers , and occurrence of other cancers were compared between the groups
+results : the mean age at diagnosis of prostate cancer for men in potentially linked families was significantly lower than for men in potentially unlinked families ( 63.7 vs 65.9 years , respectively , p=.01 ; mean age at diagnosis in the reference population was 71.6 years )
+higher-grade cancers ( grade <num> ) were more common in potentially linked families , and advanced-stage disease was found in <num> % of the case patients in potentially linked families compared with <num> % in both the potentially unlinked families and the reference groups ( p=.03 for the latter comparison )
+in the other clinical parameters , we found no significant differences between the groups
+a modest excess of breast cancer and colon cancer was found in potentially linked families in comparison with potentially unlinked families , but this difference was not statistically significant
+conclusions : families that provide evidence for segregation of an altered hpc1 gene are characterized by multiple cases of prostate cancer that , in most respects , are indistinguishable from nonhereditary cases
+however , <num> characteristics were observed : younger age at diagnosis , higher-grade tumors , and more advanced-stage disease
+our study shows that a significant fraction of hereditary prostate cancers are diagnosed in advanced stages , emphasizing the clinical importance of early detection in men potentially carrying prostate cancer susceptibility genes
+these findings support the current recommendations to screen men with a positive family history of prostate cancer beginning at age <num> years
+context : susceptibility to multiple sclerosis ( ms ) involves a genetically complex autoimmune component
+however , except for genes in the hla system , specific susceptibility loci are unknown or unconfirmed
+objective : to investigate several loci spanning <num> candidate regions for a role in multiple sclerosis ( ms ) susceptibility in <num> ethnic groups using both single-locus and haplotype analyses
+the <num> regions include hla on chromosome 6p21.3 , apoe on chromosome 19ql 3.2 , and mbp ( myelin basic protein ) on chromosome 18q23
+design : case-control association testing
+subjects : a total of <num> caucasian patients with ms and <num> unrelated control individuals from california , and <num> patients and <num> unrelated control individuals from beijing , china
+all patients with ms were diagnosed as having clinically definite disease according to published criteria
+main outcome measures : chi2 testing of loci and individual alleles and haplotypes
+haplotype frequencies were estimated with standard maximum likelihood methods
+results : the hla effect is due to the class ii dr2 haplotype , drb1*1501-dqa1*0102-drb1*0602 ; contributions to ms susceptibility from additional drb1-dqb1 alleles or other hla region loci were not observed
+variation within the mbp locus on chromosome 18q23 showed no effect in ms
+the distribution of haplotypes from <num> loci within the chromosome 19q13.2 region , including d19s178 , d19s574 , apoe , apoc2 , and d19s219 , differed between patient and control samples
+d19s574 showed a significant effect ( p=.015 ) in caucasian patients with ms due to the increased frequency of a single allele ( p=.002 )
+the apoe variation , prominent in other neurological diseases , showed no influence on ms susceptibility , despite its location within the chromosome 19q13.2 region
+interaction effects between dr2 and chromosome 19q13.2 or mbp in ms susceptibility were not apparent
+conclusions : the significant chromosome 19q13.2 single-locus and multilocus haplotype associations with ms in caucasian and chinese patient samples indicate an effect from a nearby disease susceptibility locus
+these initial observations are an encouraging step toward the description of non-hla genetic susceptibility to ms
+< to_see > context : there is a substantial risk of a second cancer for persons with hereditary retinoblastoma , which is enhanced by radiotherapy
+< to_see > objective : to examine long-term risk of new primary cancers in survivors of childhood retinoblastoma and quantify the role of radiotherapy in sarcoma development
+design : cohort incidence study of patients with retinoblastoma followed for a median of <num> years , and nested case-control study of a radiation dose-response relationship for bone and soft tissue sarcomas
+setting/participants : a total of <num> patients with retinoblastoma who survived at least <num> year after diagnosis , identified from hospital records in massachusetts and new york during <num> to <num>
+results : incidence of subsequent cancers was statistically significantly elevated only in the <num> patients with hereditary retinoblastoma , in whom <num> cancers were diagnosed , vs 6.3 expected in the general population ( relative risk ( rr ) , <num> ( <num> % confidence interval , 26-47 ) )
+cumulative incidence ( +/-se ) of a second cancer at <num> years after diagnosis was 51.0 % ( +/-6.2 % ) for hereditary retinoblastoma , and 5.0 % ( +/-3.0 % ) for nonhereditary retinoblastoma
+all <num> sarcomas of diverse histologic types occurred in patients with hereditary retinoblastoma
+for soft tissue sarcomas , the rrs showed a stepwise increase at all dose categories , and were statistically significant at <num> to 29.9 gy and <num> to 59.9 gy
+a radiation risk for all sarcomas combined was evident at doses above <num> gy , rising to 10.7-fold at doses of <num> gy or greater ( p & # <num> ; .05 )
+< to_see > conclusions : genetic predisposition has a substantial impact on risk of subsequent cancers in retinoblastoma patients , which is further increased by radiation treatment
+a radiation dose-response relationship is demonstrated for all sarcomas and , for the first time in humans , for soft tissue sarcomas
+retinoblastoma patients should be examined for new cancers and followed into later life to determine whether their extraordinary cancer risk extends to common cancers of adulthood
+the objective of this study was to determine the rate of recent cocaine use among a metropolitan population of predominantly hispanic and african-american women with preterm premature rupture of the membranes ( prom ) and to ascertain the impact of cocaine on the latency period between rupture of membranes and delivery
+urine toxicology screens were prospectively obtained on <num> women with preterm prom
+the urine screen did not influence management decisions
+all women were expectantly managed without tocolytics until <num> weeks ' gestation unless they developed clinical chorioamnionitis , or nonreassuring fetal heart rate tracing or biophysical profile
+demographic information , hours from rupture of membranes to delivery , gestational age , and birth weight at delivery were compared using fisher 's exact , mann-whitney u , and randomization tests where appropriate
+the rate of positive urine drug screens for cocaine was 8.2 %
+women in the cocaine positive group were of higher parity ( <num> , ( 0-7 ) vs. <num> , ( 0-6 ) , p = 0.001 ) and tended to be older ( <num> , ( 23-42 ) vs. <num> , ( 14-40 ) )
+there was a higher rate of recent cocaine use among african-american women ( 20.4 % ) as compared to non-african-americans ( 1.2 % , p = 0.0001 )
+cocaine-positive women presented at an earlier gestational age ( <num> weeks ' , ( 24-34 ) vs. <num> weeks ' , ( 23-36 ) , p = 0.02 ) and had a significantly longer membrane rupture to delivery interval than women with a negative urine drug screen ( <num> hr , ( 6-475 ) vs. <num> hours ( 1-833 ) , p = 0.01 )
+there was no significant difference in the reason for delivery between the two groups of patients
+recent cocaine use among women with preterm prom is common in only some segments of an urban population
+women with recent cocaine use present with ruptured membranes at an earlier gestational age and may actually have a longer latency period than women who do not use cocaine
+the objective of this article is to explore attitudes of an inner-city , pregnant cohort about general and hiv-related prenatal care
+responses to an interview at initial prenatal care enrollment were compared using chi-square and fisher 's exact tests
+of <num> women , drug users ( <num> % ) were more likely to say that they would defer initiating prenatal care ( p = 0.03 ) and to minimize the risk of drug or alcohol use to the fetus ( p = 0.04 )
+most ( <num> % ) viewed pregnancy as inappropriate for hiv infected women and primarily drug users ( p = 0.06 ) would abort if hiv infected
+over half thought hiv transmission occurred most times or always
+only <num> % had heard of a drug to reduce this risk , but <num> % would take such a therapy
+these inner-city , pregnant women disapproved of pregnancy if hiv infected and thought the risk of transmission was high
+they knew little of how to reduce this risk but nearly all would accept a drug to prevent transmission
+the association of parvovirus b19 infection and hydrops fetalis is well known
+however , the association of parvovirus and fetal pleural or pericardial effusions has not been reported
+we present five cases of isolated pleural or pericardial effusion with documented maternal parvovirus infection in four of these pregnancies
+in the absence of structural or karyotypic abnormalities , spontaneous resolution of the effusion portends for a successful pregnancy outcome
+background : cochlear implantation is nowadays a reliable and well-accepted method of auditory rehabilitation in selected adults and children
+methods : we present rehabilitation data on <num> adult patients provided with the nucleus ci22 m cochlear implant using the speak strategy
+results : results of first tune-up show an open set speech understanding in approximately <num> % of patients
+long-term results also reveal further improvement in patients who had no open set speech understanding
+our data seem to indicate similar results in comparison to other groups using the cis strategy
+conclusions : in adults , open set speech understanding can be achieved even at the first tune-up
+results of early rehabilitation seem to be influenced by duration and etiology of deafness , experience with hearing aids , and other factors
+adverse drug effects are manifold and heterogenous
+many situations may hamper the signalling ( i.e . the detection of early warning signs ) of adverse effects and new signals often differ from previous experiences
+signals have qualitative and quantitative aspects
+different categories of adverse effects need different methods for detection
+current pharmacovigilance is predominantly based on spontaneous reporting and is mainly helpful in detecting type b effects ( those effects that are often allergic or idiosyncratic reactions , characteristically occurring in only a minority of patients and usually unrelated to dosage and that are serious , unexpected and unpredictable ) and unusual type a effects ( those effects that are related to the pharmacological effects of the drug and are dosage-related )
+examples of other sources of signals are prescription event monitoring , large automated data resources on morbidity and drug use ( including record linkage ) , case-control surveillance and follow-up studies
+type c effects ( those effects related to an increased frequency of 'spontaneous ' disease ) are difficult to study , however , and continue to pose a pharmacoepidemiological challenge
+seven basic considerations can be identified that determine the evidence contained in a signal : quantitative strength of the association , consistency of the data , exposure response relationship , biological plausibility , experimental findings , possible analogies and the nature and quality of the data
+a proposal is made for a standard signal management procedure at pharmacovigilance centres , including the following steps : signal delineation , literature search , preliminary inventory of data , collection of additional information , consultation with the world health organization centre for international drug monitoring and the relevant drug companies , aggregated data assessment and a report in writing
+a better understanding of the conditions and mechanisms involved in the detection of adverse drug effects may further improve strategies for pharmacovigilance
+objective : to study the safety and efficacy of methylphenidate in children with the dual diagnosis of epilepsy and attention deficit hyperactivity disorder ( adhd )
+study design : thirty children , aged 6.4 to 16.4 years , with epilepsy and adhd were studied during a 4-month period
+during the initial <num> months of the study , the children were treated with antiepileptic drugs ( aeds ) only , and for the remaining <num> months , methylphenidate was added at a morning dose of 0.3 mg/kg
+they underwent neurologic assessment , brain computed tomography , iq testing , and assessment with the childhood behavior checklist at baseline before methylphenidate therapy
+electroencephalography , aed determinations , and the continuous-performance task ( cpt ) test were done at baseline and after <num> months of methylphenidate therapy
+a double-blind , crossover design was used to compare the effects of methylphenidate versus placebo on an electroencephalogram , aed levels , and the cpt
+on the <num> days of testing , the child received aeds and a capsule containing either placebo or methylphenidate
+results : none of the <num> children of this sample who were seizure free had attacks while taking methylphenidate
+of the <num> children with seizures , <num> had an increase in attacks , whereas the other <num> showed no change or a reduction
+there were no significant changes in aed levels or electroencephalographic findings
+methylphenidate benefited <num> % of children according to parental report ; methylphenidate also enhanced performance on the cpt
+side effects of methylphenidate were mild and transient
+conclusion : methylphenidate is effective in treating children with epilepsy and adhd and safe in children who are seizure free
+caution is warranted for those still having seizures while receiving aed therapy
+the temporal properties of semantic and phonological processes in speech production were investigated in a new experimental paradigm using movement-related brain potentials
+the main experimental task was picture naming
+in addition , a 2-choice reaction go/no-go procedure was included , involving a semantic and a phonological categorization of the picture name
+lateralized readiness potentials ( lrps ) were derived to test whether semantic and phonological information activated motor processes at separate moments in time
+an lrp was only observed on no-go trials when the semantic ( not the phonological ) decision determined the response hand
+varying the position of the critical phoneme in the picture name did not affect the onset of the lrp but rather influenced when the lrp began to differ on go and no-go trials and allowed the duration of phonological encoding of a word to be estimated
+these results provide electrophysiological evidence for early semantic activation and later phonological encoding
+the effects of alanine and glycine substitution for tryptophan upon the species heterogeneity of gramicidin a analogs incorporated into sds micelles have been investigated
+the sequential replacement of the four tryptophan residues in gramicidin a at positions <num> , <num> , <num> , and <num> with glycine showed that there was no detectable effect at position <num> but increasing heterogeneity of species in the micelles proceeding toward the interior of the micelle at position <num>
+the replacement of tryptophan at positions <num> and <num> with alanine was found to produce more species heterogeneity than found with glycine substitution at the same positions
+an increase in the sds concentration reduces the number of different species present in micelles
+with the gly-11 , gly-13 , and gly-15 analogs , the increase in sds concentration results in the formation of a single species ; however , for the gly-9 , ala-9 , and ala-15 analogs , heterogeneity remains
+molecular dynamics in torsion-angle space was applied to nuclear magnetic resonance structure calculation using nuclear overhauser effect-derived distances and j-coupling-constant-derived dihedral angle restraints
+compared to two other commonly used algorithms , molecular dynamics in cartesian space and metric-matrix geometry combined with cartesian molecular dynamics , the method shows increased computational efficiency and success rate for large proteins , and it shows a dramatically increased radius of convergence for dna
+the torsion-angle molecular dynamics algorithm starts from an extended strand conformation and proceeds in four stages : high-temperature torsion-angle molecular dynamics , slow-cooling torsion-angle molecular dynamics , cartesian molecular dynamics , and minimization
+tests were carried out using experimental nmr data for protein g , interleukin-8 , villin 14t , and a <num> base-pair duplex of dna , and simulated nmr data for bovine pancreatic trypsin inhibitor
+for villin 14t , a monomer consisting of <num> residues , structure determination by torsion-angle molecular dynamics has a success rate of <num> % , a more than twofold improvement over other methods
+in the case of the <num> base-pair dna duplex , torsion-angle molecular dynamics had a success rate of <num> % while cartesian molecular dynamics and metric-matrix distance geometry always failed
+the wavelet-transform method is used to quantify the magnetic resonance spectroscopy ( mrs ) parameters : chemical shift , apparent relaxation time t2 , resonance amplitude , and phase
+wavelet transformation is a time-frequency representation which separates each component from the fid , then successively quantifies it and subtracts it from the raw signal
+two iterative procedures have been developed
+they have been combined with a nonlinear regression analysis method and tested on both simulated and real sets of biomedical mrs data selected with respect to the main problems usually encountered in quantifying biomedical mrs , specifically `` chemical noise , '' resulting from overlapping resonances , and baseline distortion
+the results indicate that the wavelet-transform method can provide efficient and accurate quantification of mrs data
+background : antiplatelet therapy with aspirin and systematic anticoagulation with warfarin reduce cardiovascular morbidity and mortality after myocardial infarction when given alone
+in the coumadin aspirin reinfarction study ( cars ) , we aimed to find out whether a combination of low-dose warfarin and low-dose aspirin would give superior results to standard aspirin monotherapy without excessive bleeding risk
+methods : we used a randomised double-blind study design
+at <num> sites , we randomly assigned <num> patients who had had myocardial infarction , treatment with <num> mg aspirin , <num> mg warfarin with <num> mg aspirin , or <num> mg warfarin with <num> mg aspirin
+patients took a single tablet daily , and attended for prothrombin time ( pt ) measurements at weeks <num> , <num> , <num> , <num> , <num> , and <num> , and then every <num> months
+patients were followed up for a maximum of <num> months ( median <num> months )
+findings : the primary event was first occurrence of reinfarction , non-fatal ischaemic stroke , or cardiovascular death
+1-year life-table estimates for the primary event were 8.6 % ( <num> % ci 7.6-9.6 ) for <num> mg aspirin , 8.4 % ( 7.4-9.4 ) for <num> mg warfarin with <num> mg aspirin , and 8.8 % ( 7.6-10 ) for <num> mg warfarin with <num> mg aspirin
+primary comparisons were done with all follow-up data
+the relative risk of the primary event for the <num> mg aspirin group compared with the <num> mg warfarin with <num> mg aspirin group was 0.95 ( 0.81-1.12 , p = 0.57 )
+for spontaneous major haemorrhage ( not procedure related ) , 1-year life-table estimates were 0.74 % ( 0.43-1.1 ) in the <num> mg aspirin group and 1.4 % ( 0.94-1.8 ) in the <num> mg warfarin with <num> mg aspirin group ( p = 0.014 log rank on follow-up )
+for the <num> patients assigned <num> mg warfarin with <num> mg aspirin , the inr results were : at week <num> ( n = <num> ) median 1.51 ( iqr 1.23-2.13 ) ; at week <num> ( n = <num> ) 1.27 ( 1.13-1.64 ) ; at month <num> ( n = <num> ) 1.19 ( 1.08-1.44 )
+interpretation : low , fixed-dose warfarin ( <num> mg or <num> mg ) combined with low-dose aspirin ( <num> mg ) in patients who have had myocardial infarction does not provide clinical benefit beyond that achievable with <num> mg aspirin monotherapy
+background : there is serological evidence for an association between chlamydia pneumoniae and coronary heart disease
+we investigated the hypothesis that an antichlamydial macrolide antibiotic , roxithromycin , can prevent or reduce recurrent major ischaemic events in patients with unstable angina
+methods : the effect of roxithromycin was assessed in a double-blind , randomised , prospective , multicentre , parallel-group , placebo-controlled pilot study of <num> patients with unstable angina or non-q-wave myocardial infarction
+patients were randomly assigned either roxithromycin <num> mg orally twice a day ( n = <num> ) or placebo orally twice a day ( n = <num> )
+the treatment was for <num> days
+patients were followed up for <num> months
+we report the primary clinical endpoints ( cardiac ischaemic death , myocardial infarction , and severe recurrent ischaemia ) , assessed at day <num> , in <num> patients on an intention-to-treat basis
+findings : a statistically significant reduction in the primary composite triple endpoint rates was observed in the roxithromycin group : p = 0.032
+the rate of severe recurrent ischaemia , myocardial infarction , and ischaemic death was 5.4 % , 2.2 % , and 2.2 % in the placebo group and 1.1 % , <num> % , and <num> % , in the roxithromycin group , respectively
+no major drug-related adverse effects were observed
+interpretation : antichlamydial antibiotics may be useful in therapeutic intervention in addition to standard medication in patients with coronary-artery disease
+large-scale trials are needed to confirm these preliminary observations
+background : stage ib and iia cervical carcinoma can be cured by radical surgery or radiotherapy
+these two procedures are equally effective , but differ in associated morbidity and type of complications
+in this prospective randomised trial of radiotherapy versus surgery , our aim was to assess the 5-year survival and the rate and pattern of complications and recurrences associated with each treatment
+methods : between september , <num> , and december , <num> , <num> women with newly diagnosed stage ib and iia cervical carcinoma were referred to our institute
+<num> eligible patients were randomised : <num> to surgery and <num> to radical radiotherapy
+adjuvant radiotherapy was delivered after surgery for women with surgical stage pt2b or greater , less than <num> mm of safe cervical stroma , cut-through , or positive nodes
+the primary outcome measures were 5-year survival and the rate of complications
+the analysis of survival and recurrence was by intention to treat and analysis of complications was by treatment delivered
+findings : <num> patients in the surgery group and <num> in the radiotherapy group were included in the intention-to-treat analysis ; scheduled treatment was delivered to <num> and <num> women , respectively , <num> of <num> women with cervical diameters of <num> cm or smaller and <num> of <num> with diameters larger than <num> cm received adjuvant therapy
+after a median follow-up of <num> ( range 57-120 ) months , 5-year overall and disease-free survival were identical in the surgery and radiotherapy groups ( <num> % and <num> % , respectively , for both groups ) , <num> women developed recurrent disease : <num> ( <num> % ) in the surgery group and <num> ( <num> % ) in the radiotherapy group
+significant factors for survival in univariate and multivariate analyses were : cervical diameter , positive lymphangiography , and adeno-carcinomatous histotype
+<num> ( <num> % ) surgery-group patients had severe morbidity compared with <num> ( <num> % ) radiotherapy-group patients ( p = 0.0004 )
+interpretation : there is no treatment of choice for early-stage cervical carcinoma in terms of overall or disease-free survival
+the combination of surgery and radiotherapy has the worst morbidity , especially urological complications
+the optimum therapy for each patient should take account of clinical factors such as menopausal status , age , medical illness , histological type , and cervical diameter to yield the best cure with minimum complications
+today 's technology links health care providers and patients across town , in the next state or even another country
+nursing across state lines poses complications : state-bound regulatory and licensure issues
+this article discusses many of the nutritional topics important to the intensivist
+nutritional assessment , substrate immunonutrition , and disease specific issues are presented
+early introduction of enteral feeds and the use of nutritional modulation are emphasized
+problem : to compare the expression by t-lymphocytes of an immunomodulatory protein known as progesterone-induced blocking factor ( pibf ) in conception versus non-conception cycles even when there has been definite fertilization and embryo formation
+method : pibf expression on t lymphocytes was measured using an immunohistochemical method with a pibf-specific polyclonal antibody
+these levels were determined in patients undergoing three types of therapy : non-in vitro fertilization ( ivf ) , ivf-embryo transfer ( et ) , and frozen et
+sera were drawn <num> days from ovulation in non-ivf cycles or <num> days after et and were assayed for pibf and beta human chorionic gondotropin
+comparison of the frequency of lymphocyte expression of pibf in pregnant versus non-pregnant women were made
+results : pibf was detected in 29.5 % of non-pregnant women and 52.5 % of pregnant women
+there were no differences in pibf levels by therapy used in non-pregnant cases or in the pregnant group
+conclusion : these data are consistent with the hypothesis that maternal expression of pibf in t-lymphocytes soon after trophoblast invasion may depend on successful implantation
+many amino acids contain an asymmetric centre , occurring as laevorotatory , l , or dextrorotatory , d , compounds
+it is generally assumed that abiotic synthesis of amino acids on the early earth resulted in racemic mixtures ( l- and d-enantiomers in equal abundance )
+but the origin of life required , owing to conformational constraints , the almost exclusive selection of either l- or d-enantiomers , and the question of why living systems on the earth consist of l-enantiomers rather than d-enantiomers is unresolved
+a substantial fraction of the organic compounds on the early earth may have been derived from comet and meteorite impacts
+it has been reported previously that amino acids in the murchison meteorite exhibit an excess of l-enantiomers , raising the possibility that a similar excess was present in the initial inventory of organic compounds on the earth
+the stable carbon isotope compositions of individual amino acids in murchison support an extraterrestrial origin -- rather than a terrestrial overprint of biological amino acids-although reservations have persisted
+here we show that individual amino-acid enantiomers from murchison are enriched in 15n relative to their terrestrial counterparts , so confirming an extraterrestrial source for an l-enantiomer excess in the solar system that may predate the origin of life on the earth
+home care workers face an increasing risk for workplace violence
+a proactive preventive approach is presented that suggests strategies to use during the previsit phase , the visit experience , and on an ongoing basis
+the miracidia of fasciola hepatica and trichobilharzia ocellata approach their host snails lymnaea truncatula and l. stagnalis by increasing their rate of change of direction ( rcd ) in increasing gradients of snail-conditioned water ( scw ) , and they perform a turnback swimming in decreasing gradients
+both hostfinding responses in both species were induced by glycoconjugates with a molecular weight of > <num> kda that were sensitive to hydrolysis with pronase e and oxidation with naio4
+alkaline cleavage revealed that they contained carbohydrates linked o-glycosidically via serine and n-acetylgalactosamine
+miracidia clearly preferred scw from their specific host snail versus other sympatric snail species and did not respond to water conditioned with fish , tadpoles , or leeches
+differences in the chemical characteristics of scw from the intermediate hosts l. truncatula and l. stagnalis could be shown by sodium dodecyl sulfate-polyacrylamide gel electrophoresis , blotting , and subsequent carbohydrate detection
+the first step of purification of the effective signaling scw components from both snail species was achieved by ion-exchange chromatography
+black patients with colon cancer in the black/white cancer survival study were found to have a poorer survival than white patients
+more advanced-stage disease at diagnosis was the primary determinant , accounting for <num> % of the excess mortality
+after adjusting for stage , factors such as poverty , other socioeconomic conditions , and treatment did not further explain the remaining survival deficit
+this study examined the aggressiveness of colon tumors in blacks and whites to explore its role in the racial survival differences
+tumor characteristics of <num> cases of newly diagnosed invasive colon adenocarcinoma were centrally evaluated by a gastrointestinal pathologist , blinded in regard to the age , race , and sex of the patients
+blacks were less likely to have poorly differentiated ( grade <num> ) tumors ( odds ratio ( or ) , 0.44 ; <num> % confidence interval , 0.22-0.88 ) and lymphoid reaction ( or , 0.49 ; <num> % confidence interval , 0.26-0.90 ) when compared with whites
+these black/white ( b/w ) differences remained statistically significant after adjusting for age , sex , metropolitan area , summary stage , socioeconomic status , body mass index , and health care access and utilization
+in addition , blacks were less likely to have high-grade ( grade <num> ) nuclear atypia , mitotic activity , and tubule formation , although these ors did not reach a statistical significance level of 0.05
+similar b/w differences were observed for patients with advanced disease but not with early stage
+comparison by anatomical subsite showed that blacks had statistically significantly better differentiated tumors for cancers of the proximal and transverse colon but not for the distal
+no racial differences were found for blood vessel and lymphatic invasion , necrosis , fibrosis , and mucinous type of histology
+the findings , therefore , are the opposite of those hypothesized
+after adjusting for stage , more aggressive tumor characteristics do not explain the adverse survival differential in blacks
+this suggests that there may be racial differences in environmental exposure , and that the intensity and mode of delivery of carcinogen insult as well as host susceptibility may differ by race and anatomical subsite
+future studies should explore the b/w differences in tumor biology using molecular markers that precede the conventional histological parameters evaluated here
+a new method is described for detection of mutations in the lysosomal alpha-glucosidase gene ( gaa ) leading to glycogen storage disease type ii ( gsdii )
+a key feature of the method is isolation and reverse transcription of mrna followed by pcr amplification of lysosomal alpha-glucosidase cdna with m13-extended primers
+dye labeled primers are used for cycle sequencing and an abi prism <num> dna sequencing system for analysis
+the method is rapid and complementary to the automated sequencing of all the <num> , pcr amplified , coding exons of the gaa gene
+the advantages and pitfalls of this new method are discussed in the light of the results obtained with an infantile gsdii patient
+a new splice site mutation in the gaa gene of this patient was identified , ivs16 ( +2t -- > c ) , resulting in the deletion of <num> base pairs of exon <num>
+the presence of clinical autonomic dysfunction in patients with neurologic diseases , such as multiple sclerosis , parkinson 's disease , and cerebrovascular accident , has become increasingly recognized in the past decade
+very few autonomic tests have been done on pediatric patients thus far
+the purpose of this study was to investigate the autonomic function in patients with cerebral palsy using two noninvasive tests : sympathetic skin response ( ssr ) and r-r interval variation ( rriv )
+twenty-four patients with cerebral palsy and <num> control subjects between the ages of <num> and <num> yr were enrolled in this study
+there was no significant difference of mean latency , amplitude , or amplitude ratio of ssr between the two groups under electric stimulus , startling stimulus , and deep breathing conditions
+no significant difference in frequency of absent response and asymmetric response was also noted
+mean heart rate under relaxed sitting condition was significantly higher in the study group
+significant negative correlation between heart rate and age was noted in the control group but was not present in the study group
+also , there was no statistical difference of mean rriv between the two groups
+no objective evidence of autonomic disturbance in patients with cerebral palsy was found in this study
+a two-credits per semester clinical medicine course was established in the department of physical medicine and rehabilitation ( pm & # <num> ; r ) in cooperation with the johns hopkins university undergraduate human biology faculty to present the variety of inpatient consultation personnel , units , patient diagnostic groups , and functional problems
+college students spend <num> hr weekly on the pm & # <num> ; r consultation service as team members under resident supervision
+the curriculum emphasizes student understanding of the roles of rehabilitation team members
+objectives include demonstration of working knowledge of the biopsychosocial model , the world health organization model of disablement and interdisciplinary rehabilitation intervention
+the course includes simulations of physical impairments , demonstrations of adaptive equipment , interactive chart reviews , readings , and audio lectures
+a retrospective sequential review was made of the last <num> physical medicine and rehabilitation consultations with student attendance
+the results confirm student exposure to many ward settings ( surgery , <num> % ; neurology/neurosurgery , <num> % ; medicine , <num> % ; intensive care , <num> % ; oncology , <num> % ; and psychiatry , <num> % ) , patient complexity ( averaging <num> problems ) , and multiple icd-9 diagnosis categories ( circulatory , <num> % ; neurologic , <num> % ; musculoskeletal , <num> % ; neoplasms , <num> % ; injury , <num> % ; endocrine , <num> % ; infections , <num> % ; and others , <num> % )
+the rehabilitation consultation service is particularly effective as an introduction to hospital-based medical practice due to the diagnostic variety of the patients , the functional approach of rehabilitation , and student exposure to multiple hospital settings
+the biopsychosocial model of medical practice is demonstrated through multiple interdisciplinary perspectives of needs and interventions for patients with obvious functional deficits
+this process develops a rudimentary understanding of the effect of illness on the person and the variety of medically effective therapeutic modalities
+this study is designed to investigate the immediate effectiveness of electrotherapy on myofascial trigger points of upper trapezius muscle
+sixty patients ( <num> males and <num> females ) who had myofascial trigger points in one side of the upper trapezius muscles were studied
+the involved upper trapezius muscles were treated with three different methods according to a random assignment : group a muscles ( n = <num> ) were given placebo treatment ( control group ) ; group b muscles ( n = <num> ) were treated with electrical nerve stimulation ( ens ) therapy ; and group c muscles ( n = <num> ) were given electrical muscle stimulation ( ems ) therapy
+the effectiveness of treatment was assessed by conducting three measurements on each muscle before and immediately after treatment : subjective pain intensity ( ( pi ) with a visual analog scale ) , pressure pain threshold ( ( pt ) with algometry ) , and range of motion ( ( rom ) with a goniometer ) of upper trapezius muscle ( lateral bending of cervical spine to the opposite side )
+when the effectiveness of treatment was compared with that of the placebo group ( group a ) , there was significant improvement in pi and pt in group b ( p & # <num> ; 0.01 ) but not in group c ( p > 0.05 )
+the improvement of rom was significantly more in group c ( p & # <num> ; 0.01 ) as compared with that in group a or group b
+when each group was divided into two additional subgroups based on the initial pi , it was found that ens could reduce pi and increase pt significantly ( p & # <num> ; 0.05 ) , but did not significantly ( p > 0.05 ) improve rom , as compared with the placebo group for both subgroups
+ems could significantly ( p & # <num> ; 0.05 ) improve rom , but not pt , better than the placebo groups , for either subgroup
+it could reduce pi significantly more ( p & # <num> ; 0.05 ) than placebo controls only for the subgroup with mild to moderate pain , but not with severe pain
+for pain relief , ens was significantly better ( p & # <num> ; 0.05 ) than ems ; but for the improvement of rom , ems was significantly better ( p & # <num> ; 0.05 ) than ens
+it is concluded that ens is more effective for immediate relief of myofascial trigger point pain than ems , and ems has a better effect on immediate release of muscle tightness than ens
+because activity and regular exercise are important factors to maintain general good health in senior citizens , we investigated whether senior dancing has any effect on peripheral or lumbar bone density
+we performed a prospective study over a12-mo period on bone density at a spinal and peripheral measuring site in <num> female senior members ( mean age : <num> +/- <num> yr ) of a dancing group in vienna
+lumbar bone mineral density was assessed by quantitative computed tomography ( qct ) and radial bone density by single photon absorptiometry of the distal forearm
+the mean training time per week was 3.2 +/- 0.8 h. in the entire group of female dancers , no significant effects of dancing on radial or lumbar bone density could be observed
+linear regression analysis showed that the lower the qct at the beginning of the observation period , the higher was the percentage increase of spinal qct in the entire group during <num> mo of dancing ( r = 0.52 , p & # <num> ; 0.0001 )
+for additional evaluation , females were divided into two subgroups , osteoporotic or nonosteoporotic , based on x-rays and lumbar bone mineral density ( bmd ) as measured by qct
+the group classified as dancers with osteoporosis ( group i ) showed a significant increase in lumbar bone density , whereas in the group of dancers without signs of osteoporosis ( group ii ) , bmd remained unchanged
+additionally , radial bone density did not show any changes in either group
+group i showed a significant correlation between basal spinal bmd and the percentage change of bmd during the observation period ( r = 0.7 , p & # <num> ; 0.001 )
+changes of the biochemical parameters were observed in the bone-specific isoenzyme of alkaline phosphatase , a marker of osteoblastic activity , in group i giving additional evidence of increased bone formation
+objectives : to estimate the prevalence of chlamydia trachomatis in asymptomatic women attending general practice : to assess the potential of the ligase chain reaction as a screening tool ; and to evaluate selective screening criteria
+design : cross sectional survey
+setting : four general practices in northeast london
+subjects : <num> women aged 18-35 years attending general practice for a cervical smear or a `` young well woman '' check between october <num> and january <num>
+the women were tested for c trachomatis with confirmed enzyme immunoassay ( endocervical specimens ) and ligase chain reaction assay on urine specimens
+main outcome measures : prevalence of c trachomatis infection in women aged 18-35 on the basis of each test ; sensitivity and specificity of both tests in this population
+results : prevalence of confirmed infection was 2.6 % ( <num> % confidence interval 1.6 % to 3.6 % ) in all women
+prevalence on the basis of enzyme immunoassay was 1.6 % ( 0.8 % to 2.7 % ) , with a sensitivity of <num> % and a specificity of <num> %
+prevalence on the basis of ligase chain reaction was 2.5 % ( 1.5 % to 3.9 % ) , with <num> % sensitivity and 99.8 % specificity
+screening all women aged & # <num> ; or = <num> and all women who had had two or more partners in the past year would have detected <num> % ( 20/23 ) of infections
+conclusion : ligase chain reaction on urine samples performs at least as well as enzyme immunoassay on cervical specimens in this low prevalence population
+it offers potential as a non-invasive screening tool
+a simple selective screening strategy might be appropriate and would be able to detect most cases of infection
+however , a rigorous economic evaluation of possible screening strategies is needed first
+recently , many advances have been made in the study of sexual differentiation , including the discoveries of the gene for antimã1/4llerian hormone as well as the gene for its receptor
+however , the etiology of the clinical syndrome of mã1/4llerian agenesis remains elusive
+we hypothesize that activating mutations of either the antimã1/4llerian hormone gene or its receptor gene may cause mã1/4llerian duct regression in a genetic female during embryogenesis
+this clinical commentary discusses the current management of the syndrome including the abbe-mcindoe procedure , the most commonly used method of surgical correction , and the frank vaginal dilation method , the most common nonsurgical method of correction
+objectives : obesity is an important clinical problem , and the use of dexfenfluramine hydrochloride for weight reduction has been widely publicized since its approval by the food and drug administration
+however , animal and human studies have demonstrated toxic effects of fenfluramines that clinicians should be aware of when considering prescribing the drugs
+our purpose was to systematically review data on brain serotonin neurotoxicity in animals treated with fenfluramines and the evidence linking fenfluramines to primary pulmonary hypertension ( pph )
+an omission
+indoor pollution and health
+dioxins : current knowledge about health effects
+influence of environmental factors on fertility : example of the diminution of sperm quality
+new developments in the treatment of diabetes and hyperlipidemias
+role of beta-blockers in the treatment of cardiac insufficiency
+which calcium antagonists for hypertension ?
+correct use of serotonin agonists in migraine : oral or injectable form ?
+overtraining and recovery
+a conceptual model
+saliva composition and exercise
+lipid metabolism during exercise
+golf injuries
+an overview
+prevention of ankle injuries
+academic medicine -- alternative medicine from the viewpoint of public health public health directors
+academic medicine and complementary medicine -- campaign for the truth in medical theories
+the academic medicine -- alternative medicine tension field
+are academic medicine-alternative medicine incompatible , compatible , complementary ?
+research in complementary medicine : results and problems
+subcutaneous hematomas , reduced quick value
+factor vii deficiency
+mononucleosis infectiosa ( epstein-barr virus infection
+morphology and molecular biology of malignant soft tissue sarcomas
+surgical aspects in the multidisciplinary treatment of soft tissue sarcomas
+surgical management of soft tissue sarcomas : principles of resection and reconstructive plastic procedures
+adjuvant chemotherapy in early soft tissue sarcoma and palliative chemotherapy in advanced soft tissue sarcoma in adults
+radiotherapy of soft tissue sarcomas
+spinal muscular atrophy : where are we in <num> ?
+diseases transmitted by non-conventional agents ( `` prions '' ) : nosology and diagnosis
